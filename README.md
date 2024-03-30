@@ -25,6 +25,6 @@ DeepRoad AI Solution
 <br>
 
 ## 🧑‍ 팀원 소개
-| [박찬영](https://github.com/Jneck) | [안현준](https://github.com/Hyunjaa) | [권회은](https://github.com/heweun) | [최나영](https://github.com/cny689) | [오현승](https://github.com/OHxhxs) | [김태현](https://github.com/ktaehyun) |
+| [박찬영](https://github.com/Jneck) | [권회은](https://github.com/heweun) | [안현준](https://github.com/Hyunjaa) | [오현승](https://github.com/OHxhxs) | [최나영](https://github.com/cny689) | [김태현](https://github.com/ktaehyun) |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | AI Develop | AI Develop | AI Develop | AI Develop | AI Develop | AI Develop |
